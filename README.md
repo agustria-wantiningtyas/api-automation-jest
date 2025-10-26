@@ -10,11 +10,11 @@ Prerequisites
 - Node.js (v16+ direkomendasikan)
 - npm
 
-+ Clone repository (SSH)
-+ ```bash
-+ git clone git@github.com:agustria-wantiningtyas/api-automation-jest.git
-+ cd api-automation-jest
-+ ```
+Clone repository (SSH)
+```bash
+git clone git@github.com:agustria-wantiningtyas/api-automation-jest.git
+cd api-automation-jest
+```
 
 Instalasi
 - NPM install
