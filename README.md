@@ -25,10 +25,14 @@ npm init -y
 ```bash
 npm install jest supertest --save-dev
 ```
+- Install dotenv dependency
+```bash
+npm install dotenv --save-dev
+```
 
 - Install HTML reporter
 ```bash
-npm install dotenv --save-dev
+npm install jest-html-reporter --save-dev
 ```
 
 Menjalankan test
