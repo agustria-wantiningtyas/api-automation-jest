@@ -10,6 +10,12 @@ Prerequisites
 - Node.js (v16+ direkomendasikan)
 - npm
 
++ Clone repository (SSH)
++ ```bash
++ git clone git@github.com:agustria-wantiningtyas/api-automation-jest.git
++ cd api-automation-jest
++ ```
+
 Instalasi
 - NPM install
 ```bash
@@ -25,6 +31,7 @@ npm init -y
 ```bash
 npm install jest supertest --save-dev
 ```
+
 - Install dotenv dependency
 ```bash
 npm install dotenv --save-dev
